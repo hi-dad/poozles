@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="public/welcome-poodles.webp" alt="Two poodles made of puzzle pieces running off with puzzle pieces">
+  <img src="docs/poodles-banner.webp" alt="Two poodles made of puzzle pieces running off with puzzle pieces">
 </p>
 
 ## Your photos, your puzzles
