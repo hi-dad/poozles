@@ -1,4 +1,4 @@
-# Poozles (repo: hi-dad/puzzles)
+# Poozles (repo: hi-dad/poozles)
 
 - Run: `npm run dev` (Worker + site at http://localhost:8787; preview server name `poozles`). Tests: `npm test`.
 - First time locally: `npm run db:local` creates the D1 tables. `.dev.vars` (gitignored) needs `DEV_EMAIL=dev@example.com` for the "Developer sign-in" button.
