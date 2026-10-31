@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/Poozles/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="128" alt="Poozles app icon">
+  <img src="docs/icon-rounded.png" width="128" alt="Poozles app icon">
 </p>
 
 <h1 align="center">Poozles</h1>
